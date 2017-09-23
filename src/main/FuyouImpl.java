@@ -1,4 +1,4 @@
-package fuck;
+package main;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package fuck;
+package main;
 
 import java.math.BigDecimal;
 
@@ -15,6 +15,8 @@ public class DoubleTest {
         System.out.println(convertDoubleToString(b));
         System.out.println(convertDoubleToString(c));
         System.out.println(convertDoubleToString(d));
+
+        System.out.println((float) Math.pow((double) 750/646, 1.0 / 5) - 1.0f);
     }
 
     /**
